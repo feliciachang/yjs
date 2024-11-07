@@ -199,10 +199,10 @@ documents. No configuration or maintenance is required. It also features
 Yjs webhook events, REST API to read and update Yjs documents, and a
 browser DevTools extension.
   </dd>
-  <dt><a href="https://github.com/drifting-in-space/y-sweet">y-sweet</a> ⭐</dt>
+  <dt><a href="https://github.com/jamsocket/y-sweet">y-sweet</a> ⭐</dt>
   <dd>
 A standalone yjs server with persistence to S3 or filesystem. They offer a
-<a href="https://y-sweet.cloud">cloud service</a> as well.
+<a href="https://jamsocket.com/y-sweet">cloud service</a> as well.
   </dd>
   <dt><a href="https://github.com/ueberdosis/hocuspocus">Hocuspocus</a> ⭐</dt>
   <dd>
